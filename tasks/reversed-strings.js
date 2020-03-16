@@ -15,4 +15,4 @@ function solution(str){
 }
 
 solution('world'); // returns 'dlrow'
-solution('4321'); // returns 'dlrow'
+
